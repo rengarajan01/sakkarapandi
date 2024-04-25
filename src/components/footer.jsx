@@ -1,9 +1,9 @@
-import * as React from "react";
-
-export default function Footer() {
+const Footer = () => {
   return (
     <footer>
-        <img src="assets/footer.png" alt="" />
+        <img src="assets/images/footer.png" alt="" />
     </footer>
   );
 }
+
+export default Footer;
