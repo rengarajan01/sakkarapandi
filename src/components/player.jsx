@@ -8,11 +8,11 @@ const PlayerCard = ({ player }) => {
 			</div>
 
 			<div className="flex gap-1 absolute text-xs bottom-0 w-40 justify-between left-16">
-				<div >
+				<div>
 					<h4 className="inter-bold text-white">Age</h4>
 					<p className="mina-bold text-white">{player.age}</p>
 				</div>
-				<div >
+				<div>
 					<h4 className="inter-bold text-white">Position</h4>
 					<p className="mina-bold text-white">{player.position}</p>
 				</div>

@@ -56,7 +56,7 @@ function App() {
 	];
 	return (
 		<main>
-			<img loading="lazy" className="100vh" src="assets/images/banner.png" alt="hero banner" />
+			<img loading="lazy" className="100vh w-full" src="assets/images/banner.png" alt="hero banner" />
 
 			<h2 className="text-md md:text-2xl lg:text-3xl md:my-12 text-center font-bold text-neutral-900 mina-bold">Our Team</h2>
 
