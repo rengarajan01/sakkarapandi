@@ -42,7 +42,7 @@ function App() {
 		{
 			name: "Gold Star Guru",
 			age: "22",
-			position: "WC",
+			position: "WK",
 			role: "Batsman",
 			image: "assets/images/players/guru.png",
 		},
