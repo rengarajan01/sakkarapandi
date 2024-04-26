@@ -5,7 +5,7 @@ import PlayerCard from "../components/player";
 function App() {
 	const players = [
 		{
-			name: "Vipin",
+			name: "Vibe Vipin",
 			age: "22",
 			position: "4 Line",
 			role: "Batsman",
